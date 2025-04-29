@@ -205,7 +205,7 @@ h1 {
     width: 42px;
     height: 42px;
     border-radius: 50%;
-    background-color: rgb(243, 113, 104);
+    background-color: rgb(253, 120, 110);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -236,7 +236,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 0 13px rgba(95, 95, 95, 0.06);
+    box-shadow: 0 0 13px rgba(61, 61, 61, 0.06);
     position: absolute;
     top: -51px;
 }
@@ -322,7 +322,7 @@ li:hover {
     flex-direction: column;
     align-items: center;
     border-radius: 10px;
-    border: 1px solid rgb(218, 220, 224);
+    border: 1px solid rgb(246, 246, 247);
 }
 
 .img_wrapper {
@@ -353,7 +353,7 @@ li:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(77, 119, 207);
+    background-color: rgb(87, 126, 209);
 }
 
 .meet_team .team_person .card h3 {
@@ -377,7 +377,7 @@ li:hover {
 }
 
 .card .icon_group .icon_wrap:first-child {
-    background-color: rgb(77, 119, 207);
+    background-color: rgb(77, 117, 202);
 }
 
 .card .icon_group .icon_wrap:last-child {
@@ -400,7 +400,7 @@ li:hover {
 .img_gallary {
     width: 753px;
     height: 547px;
-    margin-top: 35px;
+    margin-top: 38px;
 }
 
 .img_gallary img {
@@ -443,7 +443,7 @@ li:hover {
     width: 366px;
     height: 142px;
     border-radius: 11px;
-    background-color: #fff;
+    background-color: #f7f1f1;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -455,7 +455,7 @@ li:hover {
 .massage p{
     text-align: center;
     font-weight: 400px;
-    color: #515155;
+    color: #616166;
 }
 
 .massage h3{
