@@ -500,7 +500,7 @@ li:hover {
 }
 .input_wrap label{
     font-weight: 500;
-    font-size: 18px;
+    font-size: 20px;
     text-transform: uppercase;
 }
 .input_wrap input{
@@ -510,7 +510,7 @@ li:hover {
     font-weight: 400;
     color: #515155;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
     outline: none;
 }
 
@@ -527,7 +527,7 @@ li:hover {
     padding: 19px 12px;
     font-size: 14px;
     font-weight: 400;
-    color: #515155;
+    color: #424243;
     border: none;
     border-radius: 5px;
     outline: none;
@@ -561,7 +561,7 @@ footer{
     display: flex;
     align-items: start;
     justify-content: space-between;
-    gap: 77px;
+    gap: 80px;
     margin-bottom: 30px;
 }
 
@@ -581,7 +581,7 @@ footer{
 
 .qora{
     color: #000;
-    font-weight: 700px;
+    font-weight: 710px;
 }
 
 .foot_box .icon_wrap{
@@ -595,7 +595,7 @@ footer{
 .foot_box form input{
     width: 100%;  
     padding: 12px 20px;
-    border: 1px solid #e1e2e4;
+    border: 1px solid #f7f7f8;
     outline: none;
     border-radius: 5px;
     font-size: 14px;
@@ -607,7 +607,7 @@ footer{
 }
 
 .li_class:hover{
-    color: #F35F2F;
+    color: #af411d;
     cursor: pointer;
 }
 
