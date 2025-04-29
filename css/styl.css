@@ -631,21 +631,21 @@ footer{
 }
 .sub_footer ul li{
     text-decoration: none;
-    color: #646464;
+    color: #818080;
     font-weight: 400;
     font-size: 14px;
     position: absolute;
     
 }
 .left{
-    margin-left: 930px;
+    margin-left: 940px;
     margin-top: -30px;
 }
 .left_one{
-    margin-left: 1030px;
+    margin-left: 1040px;
     margin-top: -30px;
 }
 .left_two{
-    margin-left: 1130px;
-    margin-top: -30px;
+    margin-left: 1140px;
+    margin-top: -31px;
 }
